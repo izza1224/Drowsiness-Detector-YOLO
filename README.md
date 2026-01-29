@@ -1,6 +1,6 @@
 # 🚗 Drowsiness Detector using YOLO (Tugas Besar Visi Komputer)
 
-Proyek ini adalah sistem deteksi kantuk secara real-time yang dirancang untuk membantu mengurangi risiko kecelakaan akibat pengemudi yang mengantuk. Sistem ini menggunakan algoritma **YOLO** (You Only Look Once) untuk mendeteksi mata terbuka dan tertutup melalui webcam.
+Proyek ini adalah sistem deteksi kantuk secara real-time yang dirancang untuk membantu mengurangi risiko kecelakaan akibat pengemudi mobil yang mengantuk. Sistem ini menggunakan algoritma **YOLO** (You Only Look Once) untuk mendeteksi mata terbuka dan tertutup melalui webcam.
 
 ## 📝 Deskripsi Proyek
 Aplikasi ini dikembangkan sebagai bagian dari tugas mata kuliah Visi Komputer di Politeknik Negeri Semarang (Polines). Sistem akan memberikan peringatan berupa suara alarm jika mendeteksi mata tertutup (kantuk) dalam durasi tertentu.
