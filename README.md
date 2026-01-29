@@ -20,7 +20,6 @@ Buka terminal/command prompt dan jalankan perintah berikut untuk menginstal semu
 ```bash
 pip install ultralytics customtkinter pygame opencv-python pillow
 
-## 3. Jalankan Program
-lll:
+### 3. Jalankan Program
 ```bash
 python drowsiness_gui.py
