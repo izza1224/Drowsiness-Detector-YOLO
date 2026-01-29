@@ -17,5 +17,9 @@ Pastikan kamu sudah menginstal Python (disarankan v3.9+).
 
 ### 2. Instalasi Library
 Buka terminal/command prompt dan jalankan perintah berikut untuk menginstal semua kebutuhan:
-```bash
+bash
 pip install ultralytics customtkinter pygame opencv-python pillow
+
+### 3. Jalankan Program
+bash
+python drowsiness_gui.py
