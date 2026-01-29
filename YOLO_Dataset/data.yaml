@@ -1,0 +1,19 @@
+# data.yaml
+
+# 1. Path utama (Root): 
+# Ganti ini menjadi path lengkap ke folder YOLO_Dataset/
+path: C:\visi komputer\Drowsiness_Detector_YOLO\YOLO_Dataset
+
+# 2. Lokasi training dan validation (Relatif terhadap path di atas)
+# Pastikan tidak ada titik (.)
+train: train/images
+val: valid/images
+test: test/images # (Opsional, jika ada folder 'test')
+
+# 3. Jumlah dan Nama Kelas
+nc: 4 
+names:
+  0: closed_eye
+  1: closed_mouth
+  2: open_eye
+  3: open_mouth
